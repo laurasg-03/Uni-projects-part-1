@@ -1,0 +1,11 @@
+0, 1, 1, Cholesterol < 200 mg/dl, Cholesterol > 200 mg/dl
+1, 0, 0, low
+2, 1, 1, Diabetes or hypercholesterolemy, No Diabetes or hypercholesterolemy
+3, 1, 1, RCV < 3%, RCV > 3%
+4, 0, 0, low
+5, 1, 1, RCV < 5%, RCV > 5%
+6, 0, 0, medium
+7, 0, 0, high
+8, 1, 1, Secundary prevention, No secundary prevention
+9, 0, 0, high
+10, 0, 0, medium
